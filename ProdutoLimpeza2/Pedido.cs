@@ -8,7 +8,7 @@ namespace ProdutoLimpeza2
 {
     public class Pedido
     {
-        public Pedido (Cliente cliente)
+        public Pedido (Cliente cliente) 
         {
 
         }
